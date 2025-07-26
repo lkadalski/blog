@@ -1,6 +1,6 @@
-baseURL: "https://frog01-20336.wykr.es"
-languageCode: pl-pl
-title: "testowy blog"
+baseURL: "https://frog01-20366.wykr.es"
+languageCode: en-us
+title: "The Terminal Dogma"
 theme: "papermod"
 enableEmoji: true
 
@@ -12,9 +12,3 @@ params:
       name: "github"
       repo: "org/repo"
 
-collections:
-  - label: "post"
-    name: "post"
-    folder: "post"
-    create: true
-    sort_by: "date"
