@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://frog01.mikr.us:20336/posts/mikrus/</loc>
+    <lastmod>2025-07-23T07:39:43+02:00</lastmod>
+  </url><url>
+    <loc>http://frog01.mikr.us:20336/</loc>
+    <lastmod>2025-07-23T07:39:43+02:00</lastmod>
+  </url><url>
+    <loc>http://frog01.mikr.us:20336/posts/</loc>
+    <lastmod>2025-07-23T07:39:43+02:00</lastmod>
+  </url><url>
+    <loc>http://frog01.mikr.us:20336/categories/</loc>
+  </url><url>
+    <loc>http://frog01.mikr.us:20336/tags/</loc>
+  </url>
+</urlset>

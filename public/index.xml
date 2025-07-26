@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>http://frog01.mikr.us:20336/</link>
+        <description>Recent content on My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 23 Jul 2025 07:39:43 +0200</lastBuildDate><atom:link href="http://frog01.mikr.us:20336/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mikrus</title>
+        <link>http://frog01.mikr.us:20336/posts/mikrus/</link>
+        <pubDate>Wed, 23 Jul 2025 07:39:43 +0200</pubDate>
+        
+        <guid>http://frog01.mikr.us:20336/posts/mikrus/</guid>
+        <description>&lt;h1 id=&#34;pierwszy-wpis&#34;&gt;Pierwszy wpis!
+&lt;/h1&gt;&lt;p&gt;Witaj w moim nowym świecie blogowania!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
