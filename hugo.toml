@@ -1,4 +1,0 @@
-baseURL = 'http://frog01.mikr.us:20336/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme='hugo-theme-stack'
