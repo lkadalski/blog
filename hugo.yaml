@@ -1,14 +1,98 @@
 baseURL: "https://frog01-20366.wykr.es"
 languageCode: en-us
 title: "The Terminal Dogma"
-theme: "papermod"
+theme: "hugo-theme-stack"
 enableEmoji: true
 
 params:
+  mainSections:
+    - blog
+  featuredImageField: image
+  rssFullContent: true
+  footer:
+    since: 2025
+  sidebar:
+    avatar:
+      src: avatar.png
+    subtitle: Each prompt is a prayer. Each line, a step closer to the root of all things.
+  article:
+    math: false
+    toc: true
+    readingTime: true
+  comments:
+    enabled: false
+    provider: disqus
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+    page:
+      - type: toc
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
+
+
   headless_cms:
     engine: "sveltia"
     site_url: "https://frog01-20366.wykr.es"
     backend:
       name: "github"
       repo: "org/repo"
+permalinks:
+  post: /posts/:slug/
+  blog: /blog/:slug/
+menu:
+  main:
+    - identifier: blog
+      name: int main()
+      url: /blog/
+      weight: 10
+      params:
+        icon: home
+    - identifier: screendump
+      name: Screen Dump 
+      url: /screen_dump/
+      weight: 30
+      params:
+        icon: movie
+    - identifier: codex
+      name: Codex
+      url: /codex/
+      weight: 20
+      params:
+        icon: book
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+      params:
+        icon: quote
 
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: false
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4

@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on The Terminal Dogma</title>
-    <link>https://frog01-20366.wykr.es/tags/</link>
-    <description>Recent content in Tags on The Terminal Dogma</description>
-    <generator>Hugo -- 0.148.1</generator>
-    <language>en-us</language>
-    <atom:link href="https://frog01-20366.wykr.es/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on The Terminal Dogma</title>
+        <link>https://frog01-20366.wykr.es/tags/</link>
+        <description>Recent content in Tags on The Terminal Dogma</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 27 Jul 2025 18:47:00 +0200</lastBuildDate><atom:link href="https://frog01-20366.wykr.es/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Anime</title>
+        <link>https://frog01-20366.wykr.es/tags/anime/</link>
+        <pubDate>Sun, 27 Jul 2025 18:47:00 +0200</pubDate>
+        
+        <guid>https://frog01-20366.wykr.es/tags/anime/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Movie</title>
+        <link>https://frog01-20366.wykr.es/tags/movie/</link>
+        <pubDate>Sun, 27 Jul 2025 18:47:00 +0200</pubDate>
+        
+        <guid>https://frog01-20366.wykr.es/tags/movie/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Blog</title>
+        <link>https://frog01-20366.wykr.es/tags/blog/</link>
+        <pubDate>Sat, 26 Jul 2025 18:36:00 +0000</pubDate>
+        
+        <guid>https://frog01-20366.wykr.es/tags/blog/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>General</title>
+        <link>https://frog01-20366.wykr.es/tags/general/</link>
+        <pubDate>Sat, 26 Jul 2025 18:36:00 +0000</pubDate>
+        
+        <guid>https://frog01-20366.wykr.es/tags/general/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

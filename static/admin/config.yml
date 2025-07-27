@@ -6,9 +6,26 @@ backend:
 media_folder: static/media
 public_folder: media
 collections:
-  - name: 'post'
-    label: 'Post'
-    folder: 'content/posts'
+  - name: 'codex'
+    label: 'Codex'
+    folder: 'content/codex'
+    create: true
+    #slug: '{{slug}}'
+    path: '{{slug}}/index'
+    editor:
+      preview: false
+    media_folder: ''
+    public_folder: ''
+    #--------------------------
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Draft', name: 'draft', widget: 'boolean' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DDTHH:mm:ssZ' }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'screen_dump'
+    label: 'Screen Dump'
+    folder: 'content/screen_dump'
     create: true
     #slug: '{{slug}}'
     path: '{{slug}}/index'

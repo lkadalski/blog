@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Blogs on The Terminal Dogma</title>
-    <link>https://frog01-20366.wykr.es/blog/</link>
-    <description>Recent content in Blogs on The Terminal Dogma</description>
-    <generator>Hugo -- 0.148.1</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://frog01-20366.wykr.es/blog/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blogs on The Terminal Dogma</title>
+        <link>https://frog01-20366.wykr.es/blog/</link>
+        <description>Recent content in Blogs on The Terminal Dogma</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 26 Jul 2025 18:36:00 +0000</lastBuildDate><atom:link href="https://frog01-20366.wykr.es/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Begining</title>
+        <link>https://frog01-20366.wykr.es/blog/the-begining/</link>
+        <pubDate>Sat, 26 Jul 2025 18:36:00 +0000</pubDate>
+        
+        <guid>https://frog01-20366.wykr.es/blog/the-begining/</guid>
+        <description>&lt;img src="https://frog01-20366.wykr.es/media/avatar.png" alt="Featured image of post The Begining" /&gt;&lt;blockquote&gt;
+&lt;p&gt;“Be yourself; everyone else is already taken.”
+― Oscar Wilde&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;This is my first post on my freshly created blog. I&amp;rsquo;m dedicating this space for my thoughts and my pursue of myself. Rest will be later&amp;hellip;.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
