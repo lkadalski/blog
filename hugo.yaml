@@ -20,8 +20,8 @@ params:
     toc: true
     readingTime: true
   comments:
-    enabled: false
-    provider: disqus
+    enabled: true
+    provider: gitscus
   widgets:
     homepage:
       - type: search
