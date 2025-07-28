@@ -21,9 +21,10 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Draft', name: 'draft', widget: 'boolean' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DDTHH:mm:ssZ' }
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'screen_dump'
+  - name: 'screen dump'
     label: 'Screen Dump'
     folder: 'content/screen_dump'
     create: true
