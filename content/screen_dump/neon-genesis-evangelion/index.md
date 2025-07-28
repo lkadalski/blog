@@ -9,7 +9,6 @@ tags:
   - movie
   - ''
 categories:
-  - movie
-  - anime
+  - review
 ---
 This is review of Evangelion
