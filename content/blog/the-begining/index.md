@@ -4,10 +4,9 @@ date: 2025-07-26T18:36:00
 description: The first in the line...
 image: /media/avatar.png
 tags:
-  - blog
   - general
 categories:
-  - general
+  - blog
 thumbnail: /media/panda-3503779_1280.jpg
 ---
 > “Be yourself; everyone else is already taken.”
