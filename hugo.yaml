@@ -20,7 +20,7 @@ params:
     toc: true
     readingTime: true
   comments:
-    enabled: true
+    enabled: false
     provider: gitscus
   widgets:
     homepage:
