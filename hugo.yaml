@@ -58,7 +58,7 @@ permalinks:
 menu:
   main:
     - identifier: blog
-      name: int main()
+      name: Journal
       url: /blog/
       weight: 10
       params:
