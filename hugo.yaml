@@ -36,6 +36,9 @@ params:
           limit: 10
     page:
       - type: toc
+      - type: tag-cloud
+      - type: categories
+      - tyoe: search
   imageProcessing:
     cover:
       enabled: true
