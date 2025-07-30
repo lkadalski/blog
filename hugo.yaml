@@ -38,7 +38,7 @@ params:
       - type: toc
       - type: tag-cloud
       - type: categories
-      - tyoe: search
+      - type: search
   imageProcessing:
     cover:
       enabled: true
