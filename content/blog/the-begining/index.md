@@ -29,6 +29,7 @@ Topics which I would like to touch are:
 - AWS From Zero To Hero
 - VPS Management From Zero To Hero
 - SSL/TLS Management
+- NixOS vs ArchLinux
 
 Occasionally I will write a review of a particular book or movie. Books which I would like to review are:
 
